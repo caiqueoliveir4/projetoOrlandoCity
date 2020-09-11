@@ -319,18 +319,20 @@ header #logotipo{
     height: 44px;
     line-height: 34px;
     border-radius: 0;
-   
+    
 }
 #call-to-action .btn-roxo {
     color: #fff;
     background-color: #5E299A;
     border-color: #5E299A;
     
+    
 }
 #call-to-action .btn-amarelo {
     color: #000;
     background-color: #FDE192;
     border-color: #FDE192;
+    
     
 }
 #call-to-action .row-max-400 {

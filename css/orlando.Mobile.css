@@ -89,4 +89,36 @@
         right: 10px;
         
     }
+    #estatisticas {
+        height: inherit;
+        margin-top: 0px;
+    }
+    #estatisticas p {
+        margin-bottom: 40px;
+        margin-top: 40px;
+        
+
+    }
+    #call-to-action {
+        margin-top: 69px;
+
+    }
+    #call-to-action p {
+        margin-top: 40px;
+        margin-bottom: 40px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    #call-to-action hr {
+        border-width: 4px;
+    }
+    #call-to-action h2 {
+        font-size: 32px; 
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    footer {
+        margin-top: 60px;
+    }
+
 }   
