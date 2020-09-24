@@ -132,5 +132,25 @@
     }
     #call-to-action .btn-amarelo {
         float:right;
-    }    
+    }  
+    .copyright-mobile p {
+        font-size: 13px;
+        line-height: 0;
+    
+    }
+    footer .row p {
+         line-height: 25px;
+         margin-left: 38px;
+         text-align: center;
+         
+    }
+    footer .row p:first-child {
+        margin-top: 4px;
+    }
+    footer .text-roxo {
+        line-height: 10px;
+        margin-right: 32px;
+        
+    }
+    
 }   
