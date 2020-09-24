@@ -91,8 +91,9 @@
     }
     #estatisticas {
         height: inherit;
-        margin-top: 0px;
+        margin-top: -81px;
     }
+   
     #estatisticas p {
         margin-bottom: 40px;
         margin-top: 40px;
@@ -101,7 +102,13 @@
     }
     #call-to-action {
         margin-top: 69px;
+        
 
+    }
+    #call-to-action .btn {
+        min-width: 138px;
+        line-height: 34px;
+        height: 44px;
     }
     #call-to-action p {
         margin-top: 40px;
@@ -120,5 +127,10 @@
     footer {
         margin-top: 60px;
     }
-
+    #call-to-action .btn-roxo {
+        float: left;
+    }
+    #call-to-action .btn-amarelo {
+        float:right;
+    }    
 }   
