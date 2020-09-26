@@ -11,6 +11,11 @@
     }
     #logotipo {
         left: 33%;
+        
+        
+    }
+    header #logotipo {
+        top: 21px;
     }
     #btn-bars, #btn-search {
         color: #fff;
@@ -149,26 +154,27 @@
     }
     footer .text-roxo {
         line-height: 10px;
-        margin-right: 32px;
+        margin-right: 49px;
         
     }
     footer .list-socials {
         position: absolute;
         width: 100%;
-        top: 58px;
-        
-       
-        
+        margin-left: 2px;
+        margin-top: 20px;
+         
     }
     footer .list-socials a {
-        width: 58px;
+        width: 47px;
         height: 50px;
         border-radius: 50%;
+        
     }
     footer .list-socials i {
         font-size: 34px;
-        margin: 7px;
+        margin: 6px;
     }
+
     footer .col-sm-10 {
         padding: 0;
     }
@@ -176,22 +182,30 @@
         height: 170px;
     }
     footer .btn-footer {
+        display: flex;
         width: 100%;
         background-color: #11171d;
         height: 44px;
         line-height: 32px;
-    }    
-    footer .d-sm-none {
-        display: flex;
-        margin-left: 70px;
+        text-align: center;
+        align-items: center;
     }
+
+    footer .row-fluid {
+        display: flex;
+        margin-left: 80px;
+    }    
     footer .col-xs-6 {
         padding: 0;
         padding-right: 5px;
     }
     footer .col-xs-6:last-child {
-        padding: 0;
         padding-left:5px;
+    }
+    header .header-black {
+        width: 100%;
+        position: fixed;
+        top: 0;
     }
     
     
